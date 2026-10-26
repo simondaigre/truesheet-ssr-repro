@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "TrueSheetSsrRepro",
+    "slug": "truesheet-ssr-repro",
+    "scheme": "truesheetssrrepro",
+    "web": { "output": "server" },
+    "plugins": [["expo-router", { "origin": "http://localhost:8081" }]]
+  }
+}
